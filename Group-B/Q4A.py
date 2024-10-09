@@ -2,7 +2,7 @@
 Aledutron
 SPPU 2019 TE AI Lab
 SPPU Computer Engineering Third Year (TE) Artificial Intelligence (AI) Lab Assignments (2019 Pattern)
-Youtube DSAL Playlist Link: https://www.youtube.com/playlist?list=PLlShVH4JA0ot3KGVHgl8FVTl8-JNCrPP5
+Youtube AI Lab Playlist Link: https://www.youtube.com/playlist?list=PLlShVH4JA0ot3KGVHgl8FVTl8-JNCrPP5
 
 Problem Statement:
 Group-B/Q4A.py
